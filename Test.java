@@ -18,5 +18,8 @@ public class Test
         System.out.println (p.getName ());
 	// adding a print statement for age
 	System.out.println (p.getAge ());
+
+	// Trying a print statement
+	System.out.println ("Yaza W");
     }
 }
