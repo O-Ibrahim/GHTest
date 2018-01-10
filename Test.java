@@ -22,7 +22,16 @@ public class Test
 	// Trying a print statement
 	System.out.println ("Yaza W");
 
+
     // Osama Ibrahim - 20150884
 	System.out.println ("Osama Ibrahim");
+
+	// Forking Assignment 
+	System.out.println("Shawqi Alazzawi");
+	System.out.println ("Nada Mughrabi-");
+  System.out.println ("noor sh");
+ 	System.out.println ("mazen mekdad");
+  System.out.println ("Hamza Khatib");
+
     }
 }
