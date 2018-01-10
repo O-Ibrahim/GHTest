@@ -22,5 +22,9 @@ public class Test
 	// Trying a print statement
 	System.out.println ("Yaza W");
 	System.out.println ("Nada Mughrabi-");
+        System.out.println ("noor sh");
+
+    	System.out.println ("mazen mekdad");
+      System.out.println ("Hamza Khatib");
     }
 }
